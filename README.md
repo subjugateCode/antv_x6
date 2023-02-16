@@ -1,4 +1,4 @@
-# vue-flow-x6-demo
+# vue-antv-x6-element-demo
 
 ## Project setup
 ```
